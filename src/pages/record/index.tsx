@@ -162,7 +162,7 @@ function Record(): JSX.Element {
           {targetAddress ? (
             <>
               <Typography component='div' variant='h6' sx={{ mt: 5, mb: 5 }}>
-                記録する内容を確認して下さい。
+                記録する内容を確認して下さいな。
               </Typography>
               <Image
                 text={targetAddress}
